@@ -83,7 +83,7 @@ Tracks specified keywords and accounts across Twitter, Truth Social, White House
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/Tewodros-Berhane/-crypto-automation-bots.git
+    git clone https://github.com/Tewodros-Berhane/Crypto-Automation---Telegram-Bots.git
     cd crypto-automation-bots
     ```
 
